@@ -17,9 +17,7 @@
 * Implementation
 
 * Test Cases
-
 * Design dicsussions
-
 ** Deploying a Lab :: A case for using configuration management tools.
    To deploy a lab, there are two steps: 
    + Provision a VM
@@ -65,8 +63,6 @@
    imperative for VLEAD to build a platform for continuous delivery
    
 ** Platform for Continuous Delivery
-<<<<<<< HEAD
-
 
 * Releases
 ** Release v1.0.2 
